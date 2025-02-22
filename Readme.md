@@ -102,6 +102,11 @@ The model achieved high accuracy in classifying reviews.
 
 Successfully distinguishes positive and negative sentiments.
 
+📽️ Code Walkthrough Video
+Watch the video walkthrough of this project:  
+[📹 Click Here to Watch] (https://drive.google.com/file/d/1R46p9gUZu8kN23BkvolvtAmKTBa0JPpT/view?usp=sharing)
+
+
 📄 Author
 
 👤 Atharv Patil | LinkedIn - www.linkedin.com/in/atharv-patil-bab53a284
